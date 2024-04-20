@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Skills 
+## Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,styledcomponents,vscode,nextjs,ts)](https://skillicons.dev)
